@@ -1,0 +1,18 @@
+# Data and results
+data/
+results/
+
+# Downstream analysis I/O
+downstream_analysis/**/input/
+downstream_analysis/**/output/
+
+# Logs
+*.log
+
+# R temporary files
+.Rhistory
+.RData
+
+# Conda / environment
+.env
+
